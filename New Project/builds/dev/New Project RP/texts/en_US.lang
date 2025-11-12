@@ -1,0 +1,9 @@
+pack.name=New Project RP
+pack.description=
+item.bridge:crossian_helmet=Crossian Belt Helmet
+item.bridge:crossian_chestplate=Crossian Belt Chestplate
+item.bridge:crossian_leggings=Crossian Belt Leggings
+item.bridge:crossian_boots=Crossian Belt Boots
+item.bridge:tungsten=Crossian Vial
+
+entity.bridge:thrown_tungsten.name=Crossian Vial

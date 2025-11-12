@@ -1,0 +1,48 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"bridge."
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.52"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			21,
+			120
+		],
+		"uuid": "55170011-7ebb-463e-82a2-268835300a63",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"lock_template_options": true,
+		"base_game_version": [
+			1,
+			21,
+			120
+		]
+	},
+	"modules": [
+		{
+			"type": "world_template",
+			"uuid": "b31418b4-0c57-475d-adaf-75f9ecbb89ce",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

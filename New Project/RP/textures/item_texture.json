@@ -1,0 +1,12 @@
+{
+	"resource_pack_name": "New Project",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"bridge_crossian_leggings": {
+			"textures": "textures/items/crossian_leggings"
+		},
+		"bridge_tungsten": {
+			"textures": "textures/items/tungsten"
+		}
+	}
+}
